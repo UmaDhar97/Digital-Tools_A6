@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Resume Builder Pro",
+    "description": "Create modern ATS-friendly resumes with customizable templates and export options.",
+    "price": 19,
+    "period": "one-time",
+    "tagType": "Popular",
+    "features": ["100+ templates", "ATS optimization", "Export to PDF"],
+    "icon": "https://i.ibb.co.com/ZzXD0Hpr/design-tool.png"
+  },
+  {
+    "id": 2,
+    "name": "Portfolio Website Kit",
+    "description": "Launch your personal portfolio quickly with sleek sections and responsive layouts.",
+    "price": 12,
+    "period": "one-time",
+    "tagType": "New",
+    "features": ["Responsive design", "Project showcase", "Contact form"],
+    "icon": "https://i.ibb.co.com/SDQb2mxk/operation.png"
+  },
+  {
+    "id": 3,
+    "name": "Freelancer Invoice Pack",
+    "description": "Professional invoice templates and expense trackers for freelancers and consultants.",
+    "price": 9,
+    "period": "one-time",
+    "tagType": "Best Seller",
+    "features": ["Invoice templates", "Expense tracker", "Client-ready format"],
+    "icon": "https://i.ibb.co.com/NnFStLch/portfolio.png"
+  },
+  {
+    "id": 4,
+    "name": "Study Planner Premium",
+    "description": "Organize study sessions, assignments, and revision schedules with smart planning tools.",
+    "price": 5,
+    "period": "monthly",
+    "tagType": "Popular",
+    "features": ["Task planner", "Exam tracker", "Daily goals"],
+    "icon": "https://i.ibb.co.com/w3jvvVv/shopping-cart.png"
+  },
+  {
+    "id": 5,
+    "name": "Social Media Content Kit",
+    "description": "Design-ready content templates for Instagram, Facebook, and LinkedIn campaigns.",
+    "price": 15,
+    "period": "one-time",
+    "tagType": "New",
+    "features": ["Post templates", "Brand consistency", "Editable assets"],
+    "icon": "https://i.ibb.co/sv63KHV6/social-media.png"
+  },
+  {
+    "id": 6,
+    "name": "Business Pitch Deck",
+    "description": "Present startup ideas clearly with investor-friendly pitch deck slides.",
+    "price": 25,
+    "period": "one-time",
+    "tagType": "Best Seller",
+    "features": ["Investor slides", "Editable design", "Modern layout"],
+    "icon": "https://i.ibb.co.com/0PRqKC7/writing-2327400-1.png"
+  }
+]
